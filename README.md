@@ -51,6 +51,13 @@ gulp
 
 <hr />
 
+### NOTE THAT
+The **scss file** that is going to be watched for compiling should be named ***default.scss***
+
+Or you can change its config in *gulpfile.js*
+
+<hr />
+
 
 ### Authors
 - ALireza Kavian
