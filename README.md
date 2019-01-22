@@ -1,5 +1,5 @@
 # scss-gulp
-> Using gulp to compile scss files (sass format) automatically and create the corresponding packed and minified css file
+> Using gulp V4.x.x to compile scss files (sass format) automatically and create the corresponding packed and minified css file
 
 ## Getting Started
 
